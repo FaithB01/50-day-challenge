@@ -1,0 +1,6 @@
+## EXTENSIONS
+ 
+-livewire 
+-Auto rename Tag
+-Backet pair Colorizer
+-Prettier
